@@ -3,7 +3,7 @@
 A Convolutional Temporal Attention and Multi-scale Information Learning network for Spatio-Temporal Action Detection (CTAMIL-Net) is proposed, aiming to solve the problem of inaccurate action detection caused by subtle changes in movements and similar representations of different actions.The algorithm proposed in this paper achieves superior performance results compared to existing advanced methods on the datasets UCF24, AVA, and the self-constructed Thermal Discomfort Action dataset (TDA).Big thanks to [YOWO](https://github.com/wei-tim/YOWO) for their open source. 
 
 # Algorithm Framework
-![image](./My-work-code/Figure.png)
+![image](./img_files/Figure.png)
 
 
 # Requirements
